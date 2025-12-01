@@ -1,0 +1,1 @@
+print("Times New Roman")
